@@ -1,0 +1,11 @@
+Assignment –3
+Overview of SQL.
+
+1) Does ANSI recognize the data type DATE?
+
+Ans: Yes, according to the ANSI SQL standard, the data type "DATE" is recognized and considered.
+
+
+2) Which subdivision of SQL is used to insert values in tables?
+
+Ans:  The subdivision of SQL used to insert values into tables is DDL that stands for Data Definition Language that includes Insert, Update, Delete, Select commands.
