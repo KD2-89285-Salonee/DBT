@@ -11,7 +11,7 @@ Ans:  In the Customers table, the primary key is the Cnum field.
 
 2) What is the 4th column of the Customers table? 
 
-Ans:  The 4th column of the Customers table is 'Rating'. Which describes or represents the rating of the Customer.
+Ans: The 4th column of the Customers table is 'Rating'. Which describes or represents the rating of the Customer.
 
 3) What is another word for row? For column?
 
@@ -19,4 +19,6 @@ Ans: The another word for row is Tuple, Entity, and from business perspective is
 
 4) Why isn’t it possible to see the first five rows of a table? 
 
-Ans:  
+Ans: In RDBMS data is stored in table and inside this table rows scattered all over Db server HD not stored sequentially. If multiple users are inserting rows inside same 
+     table simultaneously it would be very slow, and when you insert the SQL finds free space inside the Db server HD, it will store the row there. When we select rows from table order 
+     of rows it depends on row address. Therefore it is not possible to see the first five rows of a table
